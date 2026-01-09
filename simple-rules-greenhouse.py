@@ -1,0 +1,1 @@
+# Code for rules, such as, If soil moisture < threshold → run pump for X seconds
