@@ -1,0 +1,1 @@
+# read sensors → apply rules → actuate pump → log → sleep
